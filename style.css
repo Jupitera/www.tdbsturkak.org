@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  margin-left: 5px;
+  
+}
+body {
+    font-family: "Calibri, Sans-serif" ;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  width: auto;
+  max-width: fit-content;
+  /* white-space: Wrap; */
+}
+
+/* tr:nth-child(even) {
+    background-color: #dddddd;
+  } */
+
+.header-heading {
+    margin-top: 10px;
+  font-weight: lighter;
+  font-size: 11pt;
+  font-family: "Calibri", sans-serif;
+}
+
+.img-logo{
+    margin-left:15px ;
+}
